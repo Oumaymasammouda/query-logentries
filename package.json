@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oligrand/query-logentries.git"
+    "url": "git+https://github.com/Oumaymasammouda/query-logentries.git"
   },
   "keywords": [
     "logentries",
@@ -20,9 +20,9 @@
   "author": "Oliver Grandvuinet <oligrand@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Oligrand/query-logentries/issues"
+    "url": "https://github.com/Oumaymasammouda/query-logentries/issues"
   },
-  "homepage": "https://github.com/Oligrand/query-logentries#readme",
+  "homepage": "https://github.com/Oumaymasammouda/query-logentries#readme",
   "devDependencies": {
     "chai": "3.5.0",
     "coveralls": "2.13.0",
