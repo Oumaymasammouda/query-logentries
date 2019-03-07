@@ -127,7 +127,7 @@ function extractMessages(body, opts, cb) {
 				return null;
 			}
 			try {
-				return JSON.parse(event.message);
+				return (event);
 			} catch (e) {
 				if (opts.ignoreInvalidJson) {
 					return null;
